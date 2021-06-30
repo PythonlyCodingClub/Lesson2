@@ -1,3 +1,4 @@
 Whenever a message is deleted
-I want you to send a message - any message - in the same channel as the channel
+I want you to send a message
+- any message - in the same channel as the channel
 where the message was deleted from.
